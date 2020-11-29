@@ -1,0 +1,9 @@
+C:\Users\Администратор\source\repos\ChessLib\bin\Debug\netstandard2.0\ChessLib.deps.json
+C:\Users\Администратор\source\repos\ChessLib\bin\Debug\netstandard2.0\ChessLib.dll
+C:\Users\Администратор\source\repos\ChessLib\bin\Debug\netstandard2.0\ChessLib.pdb
+C:\Users\Администратор\source\repos\ChessLib\obj\Debug\netstandard2.0\ChessLib.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\ChessLib\obj\Debug\netstandard2.0\ChessLib.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\ChessLib\obj\Debug\netstandard2.0\ChessLib.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\ChessLib\obj\Debug\netstandard2.0\ChessLib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ChessLib\obj\Debug\netstandard2.0\ChessLib.dll
+C:\Users\Администратор\source\repos\ChessLib\obj\Debug\netstandard2.0\ChessLib.pdb
